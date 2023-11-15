@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=INotGreen&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INotGreen&layout=compact&show_icons=true&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INotGreen&layout=compact&show_icons=true&theme=synthwave" />
 </a>
