@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INotGreen&layout=compact&show_icons=true&theme=synthwave" />
 </a>
 <a>
+  ### Visitors
   <img align="center" src="https://profile-counter.glitch.me/INotGreen/count.svg" />
 </a>
 
