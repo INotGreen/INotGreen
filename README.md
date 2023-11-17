@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 </a>
 <a>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INotGreen&layout=compact&show_icons=true&theme=synthwave" />
-  ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/INotGreen/count.svg)
 </a>
-
+<a>
+  <img align="center" src="https://profile-counter.glitch.me/INotGreen/count.svg" />
+</a>
 
