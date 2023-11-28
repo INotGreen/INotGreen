@@ -13,6 +13,7 @@
 </a>
 <a>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INotGreen&layout=compact&show_icons=true&theme=synthwave" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INotGreen" />
 </a>
 <a>
    Visitors
