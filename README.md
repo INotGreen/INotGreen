@@ -1,8 +1,5 @@
 
-<!--
-**INotGreen/INotGreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 Passionate about researching offensive code, Interested in Bypass, AV/EDR/Persistence, RAT/C2 construction...
 - 🌱 Learning: Domain penetration, tools development, Focused on C/C++/.Net
