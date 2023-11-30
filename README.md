@@ -14,7 +14,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INotGreen"  />
 </p>
 <p align="center">
-  <img width="49%" src="https://profile-counter.glitch.me/INotGreen/count.svg"  />
+  <img width="25%" src="https://profile-counter.glitch.me/INotGreen/count.svg"  />
 </p>
 
 
