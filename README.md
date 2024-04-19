@@ -3,8 +3,6 @@
 
 ### Hey!This is Green 👋
 
-- 🔭 Passionate about researching offensive code, Interested in Bypass, AV/EDR/Persistence, RAT/C2 construction...
-- 🌱 Learning: Domain penetration, tools development, Focused on C/C++/.Net
 
 </br></br>
 <p align="center">
