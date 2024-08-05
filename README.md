@@ -8,12 +8,20 @@
 如果您觉得项目不错的话，可以贡献您免费的star，您的star就是我更新的动力😁，非常感谢
 
 <p align="center">
-  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=INotGreen&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff"  />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INotGreen"  />
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=INotGreen&cc=1f1b24&tc=f39c12&ic=c0392b&bc=ecf0f1&locale=cn"  />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INotGreen&theme=radical"  />
 </p>
 <p align="center">
   <img width="25%" src="https://profile-counter.glitch.me/INotGreen/count.svg"  />
 </p>
+
+
+
+
+
+
+
+
 
 
 
