@@ -3,7 +3,7 @@
 
 ### Hey!This is Green 👋
 
-本人不再从事网络安全行业，正在All in AI中
+本人不再从事网络安全行业，正在All in AI中，曾经的项目也不在维护更新
 
 
 <p align="center">
