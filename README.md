@@ -3,7 +3,7 @@
 
 ### Hey!This is Green 👋
 
-目前长期维护：[SharpScan](https://github.com/INotGreen/SharpScan)，佛系更新：[XiebroC2](https://github.com/INotGreen/XiebroC2)
+本人不再从事网络安全行业，正在All in AI中
 
 
 <p align="center">
